@@ -1,0 +1,12 @@
+﻿Dénomination;Rue;Numéro;Code rue;Code postal;Commune;Nombres de places;Date de création;Date de dernière modification;Code rue (ICAR / BeStaddress);Identifiant d'adresse (ICAR / BeStaddress);json_geometry;Ville;Coordonnées
+Parking motos - rue du plan incliné;rue du Plan Incliné;145;3060;4000;Liège;4;2020-07-30;2020-07-30;7730856;1873357;"{""coordinates"": [5.5656041031, 50.6265553013], ""type"": ""Point""}";Liège;50.6265553013, 5.5656041031
+Parking motos - Cathédrale;place de la Cathédrale;;2056;4000;Liège;6;2020-08-18;2020-08-18;7729972;1121832;"{""coordinates"": [5.5719001114, 50.6406291425], ""type"": ""Point""}";Liège;50.6406291425, 5.5719001114
+Parking Motos - Avroy;boulevard d'Avroy;12;3001;4000;Liège;4;2020-09-07;2020-12-02;7729672;1126002;"{""coordinates"": [5.5684856294, 50.6395112732], ""type"": ""Point""}";Liège;50.6395112732, 5.5684856294
+Parking motos - Kiss & Ride Guillemins;rue Serrurier Bovy;;3083;4000;Liège;18;2020-09-07;2022-03-09;7731339;1873479;"{""coordinates"": [5.5657723796, 50.624166959], ""type"": ""Point""}";Liège;50.624166959, 5.5657723796
+Parking Motos - Sauvenière;boulevard de la Sauvenière;153;1003;4000;Liège;4;2020-07-30;2020-07-30;7729677;1137177;"{""coordinates"": [5.5688118273, 50.6403624375], ""type"": ""Point""}";Liège;50.6403624375, 5.5688118273
+Parking motos - Carpay;rue Paul-Joseph Carpay;2;2223;4000;Liège;2;2020-07-30;2020-07-30;7731234;1171443;"{""coordinates"": [5.6013472619, 50.645625364], ""type"": ""Point""}";Liège;50.645625364, 5.6013472619
+Parking motos - Plaine de Cointe;boulevard Gustave Kleyer;1F;9033;4000;Liège;8;2020-11-09;2020-11-24;7729691;1871046;"{""coordinates"": [5.5626508344, 50.62109376], ""type"": ""Point""}";Liège;50.62109376, 5.5626508344
+Parking motos - place Saint-Paul;place Saint-Paul;9;2063;4000;Liège;2;2020-07-30;2020-07-30;7730057;1871976;"{""coordinates"": [5.5707777518, 50.6394362548], ""type"": ""Point""}";Liège;50.6394362548, 5.5707777518
+Parking motos Hors-Château;rue Hors-Château;40;5048;4000;Liège;2;2021-01-12;2021-01-12;7731050;1229155;"{""coordinates"": [5.5776679705, 50.6468560569], ""type"": ""Point""}";Liège;50.6468560569, 5.5776679705
+Parking motos - Batty;place du Batty;9;9805;4000;Liège;3;2020-08-21;2021-03-23;7730003;1964964;"{""coordinates"": [5.5640176289, 50.6194231382], ""type"": ""Point""}";Liège;50.6194231382, 5.5640176289
+Parking moto gare Guillemins;rue Bovy;;3011;4000;Liège;30;2020-08-05;2022-03-09;7730232;1223943;"{""coordinates"": [5.568695337, 50.6242999381], ""type"": ""Point""}";Liège;50.6242999381, 5.568695337
